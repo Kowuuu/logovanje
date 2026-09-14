@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="050eba56-1b78-40c7-8cab-a67e5698a75b" name="Changes" comment="logovanje krajno">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Kowuuu"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kowuuu/logovanje.git",
+    "accountId": "007a6f26-e19f-4ccc-b920-fd1ea7a07cbd"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0187164435103753" />
+      <entry key="MS500" value="1.568773229431635" />
+      <entry key="S2" value="2.775184112872309" />
+      <entry key="S5" value="3.4087535894449297" />
+      <entry key="S10" value="3.7086596094055087" />
+      <entry key="S30" value="4.19960736218083" />
+      <entry key="S60" value="4.896068625035171" />
+      <entry key="M2" value="7.02792841351652" />
+      <entry key="M5" value="14.418472803792152" />
+      <entry key="M10" value="27.845424960786413" />
+      <entry key="M15" value="39.22239068285523" />
+      <entry key="M30" value="67.28907280217396" />
+      <entry key="H1" value="120.90477127613885" />
+      <entry key="H2" value="195.04784585333996" />
+      <entry key="H4" value="261.81446280163874" />
+      <entry key="D1" value="343.7552570842412" />
+      <entry key="W1" value="361.0168943134589" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.3556452849036544E-193" />
+      <entry key="S2" value="6.966705843888705E-49" />
+      <entry key="S5" value="5.460230662419886E-20" />
+      <entry key="S10" value="2.336719689555091E-10" />
+      <entry key="S30" value="6.243985307533044E-4" />
+      <entry key="S60" value="0.027817136817124114" />
+      <entry key="M2" value="0.2212114731140068" />
+      <entry key="M5" value="0.9767991091605478" />
+      <entry key="M10" value="1.8247135958214273" />
+      <entry key="M15" value="2.331739366725111" />
+      <entry key="M30" value="3.374927533202825" />
+      <entry key="H1" value="5.419348964336342" />
+      <entry key="H2" value="8.332234655145836" />
+      <entry key="H4" value="10.969294773908656" />
+      <entry key="D1" value="14.202512411311956" />
+      <entry key="W1" value="14.882526722924068" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9840143927842001" />
+      <entry key="MS500" value="1.5551017531653284" />
+      <entry key="S2" value="2.7658999745773585" />
+      <entry key="S5" value="3.403795025331639" />
+      <entry key="S10" value="3.7059032312818028" />
+      <entry key="S30" value="4.198458583532856" />
+      <entry key="S60" value="4.914948409672778" />
+      <entry key="M2" value="7.226456330151289" />
+      <entry key="M5" value="15.364592635900085" />
+      <entry key="M10" value="29.64009605411244" />
+      <entry key="M15" value="41.52642565574464" />
+      <entry key="M30" value="70.64099081473243" />
+      <entry key="H1" value="126.30436238168227" />
+      <entry key="H2" value="203.36478252225535" />
+      <entry key="H4" value="272.7737446207968" />
+      <entry key="D1" value="357.95562753172254" />
+      <entry key="W1" value="375.8991009649436" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JJamXW0r5n3yHYK9JqDOaWIGNA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2026.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10315.144" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="050eba56-1b78-40c7-8cab-a67e5698a75b" name="Changes" comment="" />
+      <created>1789381786775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789381786775</updated>
+      <workItem from="1789381787792" duration="10276000" />
+    </task>
+    <task id="LOCAL-00001" summary="logovanje krajno">
+      <option name="closed" value="true" />
+      <created>1789393399776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789393399776</updated>
+    </task>
+    <task id="LOCAL-00002" summary="logovanje krajno">
+      <option name="closed" value="true" />
+      <created>1789407818872</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789407818872</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="logovanje krajno" />
+    <option name="LAST_COMMIT_MESSAGE" value="logovanje krajno" />
+  </component>
+</project>
